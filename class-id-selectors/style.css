@@ -1,0 +1,19 @@
+p {
+    font-family: Verdana, sans-serif;
+    background-color: pink;
+}
+
+#bigger {
+    font-size: 24px;
+}
+
+#blue {
+    color: blue;
+    font-size: 36;
+}
+
+#green {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
